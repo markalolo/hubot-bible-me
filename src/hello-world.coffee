@@ -15,8 +15,8 @@
 #   tombell
 
 module.exports = (robot) ->
-  robot.respond /hello/, (msg) ->
-    msg.reply "ni hao!"
+  robot.respond /bible me/i, (msg) ->
+    msg.reply "For by grace you have been saved thru faith..."
 
-  robot.hear /orly/, (msg) ->
-    msg.send "yarly"
+  robot.hear /bible me john 3:16/i, (msg) ->
+    msg.send "For God so loved the world..."
