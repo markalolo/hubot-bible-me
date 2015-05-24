@@ -2,8 +2,6 @@
 
 A script package for Hubot to put scripture into a chat
 
-[![Build Status](https://travis-ci.org/hubot-scripts/hubot-example.png)](https://travis-ci.org/hubot-scripts/hubot-example)
-
 ## Directory Structure
 
 Using the common directory structure for hubot script packages it will be easy
