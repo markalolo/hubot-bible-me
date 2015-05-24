@@ -12,7 +12,7 @@
 #   hubot orly - "yarly"
 #
 # Author:
-#   tombell
+#   markalolo
 
 module.exports = (robot) ->
   robot.respond /bible me/i, (msg) ->
