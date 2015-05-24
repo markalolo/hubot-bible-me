@@ -16,7 +16,7 @@
 
 module.exports = (robot) ->
   robot.respond /hello/, (msg) ->
-    msg.reply "hello!"
+    msg.reply "ni hao!"
 
   robot.hear /orly/, ->
     msg.send "yarly"

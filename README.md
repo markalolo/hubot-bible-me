@@ -1,6 +1,6 @@
-# Hubot Example
+# Hubot Bible Me
 
-An example script package for Hubot
+A script package for Hubot to put scripture into a chat
 
 [![Build Status](https://travis-ci.org/hubot-scripts/hubot-example.png)](https://travis-ci.org/hubot-scripts/hubot-example)
 
